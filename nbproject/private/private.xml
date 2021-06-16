@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/carexpense/app/View/Components/navbar.php</file>
+            <file>file:/C:/wamp64/www/carexpense/database/seeders/DatabaseSeeder.php</file>
+            <file>file:/C:/wamp64/www/carexpense/resources/views/category.blade.php</file>
+            <file>file:/C:/wamp64/www/carexpense/database/migrations/2021_06_13_134255_create_category_table.php</file>
+            <file>file:/C:/wamp64/www/carexpense/app/Http/Controllers/CarController.php</file>
+            <file>file:/C:/wamp64/www/carexpense/app/Models/Car.php</file>
+            <file>file:/C:/wamp64/www/carexpense/app/Models/Category.php</file>
+            <file>file:/C:/wamp64/www/carexpense/app/Http/Controllers/CategoryController.php</file>
+            <file>file:/C:/wamp64/www/carexpense/resources/views/car_new.blade.php</file>
+            <file>file:/C:/wamp64/www/carexpense/app/Models/Costs.php</file>
+            <file>file:/C:/wamp64/www/carexpense/resources/views/category_new.blade.php</file>
+            <file>file:/C:/wamp64/www/carexpense/database/migrations/2021_06_13_134307_create_costs_table.php</file>
+            <file>file:/C:/wamp64/www/carexpense/app/Models/TotCosts.php</file>
+            <file>file:/C:/wamp64/www/carexpense/resources/views/car.blade.php</file>
+            <file>file:/C:/wamp64/www/carexpense/routes/web.php</file>
+        </group>
+    </open-files>
+</project-private>
